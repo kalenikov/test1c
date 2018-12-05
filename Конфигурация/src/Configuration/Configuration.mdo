@@ -29,5 +29,7 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <catalogs>Catalog.Номенклатура</catalogs>
   <documents>Document.РасходнаяНакладная</documents>
+  <documents>Document.ПриходнаяНакладная</documents>
 </mdclass:Configuration>
