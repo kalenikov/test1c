@@ -42,10 +42,7 @@
         <value>Номенклатура</value>
       </synonym>
       <type>
-        <types>String</types>
-        <stringQualifiers>
-          <length>10</length>
-        </stringQualifiers>
+        <types>CatalogRef.Номенклатура</types>
       </type>
       <dataHistory>Use</dataHistory>
     </attributes>
